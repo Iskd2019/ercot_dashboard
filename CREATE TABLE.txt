@@ -1,0 +1,37 @@
+
+#七天预测数据
+CREATE TABLE ercot_seven_day_forecast (
+    id SERIAL PRIMARY KEY,
+    timestamp TIMESTAMP NOT NULL,
+    system_total FLOAT NOT NULL
+);
+
+---
+
+#储存每日load数据，5分钟平均用电量
+CREATE TABLE ercot_supply_demand (
+    id SERIAL PRIMARY KEY,
+    timestamp TIMESTAMP WITH TIME ZONE NOT NULL UNIQUE,
+    demand FLOAT NOT NULL,
+    forecast INTEGER NOT NULL
+);
+
+---
+
+#储存每日load数据，15分钟平均用电量
+CREATE TABLE ercot_supply_demand_15min (
+    id SERIAL PRIMARY KEY,
+    timestamp TIMESTAMP WITH TIME ZONE NOT NULL UNIQUE,
+    demand FLOAT NOT NULL,
+    forecast INTEGER NOT NULL
+);
+
+---
+
+#接下来两个小时load的预测数据
+CREATE TABLE ercot_intra_hour_forecast (
+    id SERIAL PRIMARY KEY,
+    interval_ending TIMESTAMP WITHOUT TIME ZONE NOT NULL,
+    system_total FLOAT NOT NULL,
+    model TEXT NOT NULL
+);

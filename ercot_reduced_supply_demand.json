@@ -1,0 +1,1447 @@
+[
+  {
+    "timestamp": "2025-06-19 00:00:00-0500",
+    "demand": 62260,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 00:05:00-0500",
+    "demand": 62225,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 00:10:00-0500",
+    "demand": 61747,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 00:15:00-0500",
+    "demand": 61624,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 00:20:00-0500",
+    "demand": 61073,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 00:25:00-0500",
+    "demand": 60698,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 00:30:00-0500",
+    "demand": 60798,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 00:35:00-0500",
+    "demand": 60509,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 00:40:00-0500",
+    "demand": 60223,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 00:45:00-0500",
+    "demand": 60372,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 00:50:00-0500",
+    "demand": 60258,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 00:55:00-0500",
+    "demand": 60089,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 01:00:00-0500",
+    "demand": 59940,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 01:05:00-0500",
+    "demand": 59412,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 01:10:00-0500",
+    "demand": 59123,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 01:15:00-0500",
+    "demand": 58904,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 01:20:00-0500",
+    "demand": 58716,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 01:25:00-0500",
+    "demand": 58317,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 01:30:00-0500",
+    "demand": 58003,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 01:35:00-0500",
+    "demand": 57810,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 01:40:00-0500",
+    "demand": 57432,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 01:45:00-0500",
+    "demand": 57697,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 01:50:00-0500",
+    "demand": 57393,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 01:55:00-0500",
+    "demand": 57237,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 02:00:00-0500",
+    "demand": 57034,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 02:05:00-0500",
+    "demand": 57233,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 02:10:00-0500",
+    "demand": 57119,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 02:15:00-0500",
+    "demand": 56804,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 02:20:00-0500",
+    "demand": 56875,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 02:25:00-0500",
+    "demand": 56885,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 02:30:00-0500",
+    "demand": 56852,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 02:35:00-0500",
+    "demand": 56792,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 02:40:00-0500",
+    "demand": 56538,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 02:45:00-0500",
+    "demand": 56430,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 02:50:00-0500",
+    "demand": 56357,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 02:55:00-0500",
+    "demand": 56124,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 03:00:00-0500",
+    "demand": 56002,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 03:05:00-0500",
+    "demand": 55722,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 03:10:00-0500",
+    "demand": 55406,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 03:15:00-0500",
+    "demand": 55384,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 03:20:00-0500",
+    "demand": 55225,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 03:25:00-0500",
+    "demand": 54991,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 03:30:00-0500",
+    "demand": 55049,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 03:35:00-0500",
+    "demand": 54801,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 03:40:00-0500",
+    "demand": 54786,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 03:45:00-0500",
+    "demand": 54695,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 03:50:00-0500",
+    "demand": 54680,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 03:55:00-0500",
+    "demand": 54784,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 04:00:00-0500",
+    "demand": 54641,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 04:05:00-0500",
+    "demand": 54246,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 04:10:00-0500",
+    "demand": 54191,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 04:15:00-0500",
+    "demand": 54236,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 04:20:00-0500",
+    "demand": 54194,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 04:25:00-0500",
+    "demand": 54234,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 04:30:00-0500",
+    "demand": 54113,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 04:35:00-0500",
+    "demand": 54254,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 04:40:00-0500",
+    "demand": 54096,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 04:45:00-0500",
+    "demand": 54234,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 04:50:00-0500",
+    "demand": 54119,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 04:55:00-0500",
+    "demand": 54134,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 05:00:00-0500",
+    "demand": 54154,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 05:05:00-0500",
+    "demand": 54148,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 05:10:00-0500",
+    "demand": 54293,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 05:15:00-0500",
+    "demand": 54406,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 05:20:00-0500",
+    "demand": 54448,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 05:25:00-0500",
+    "demand": 54371,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 05:30:00-0500",
+    "demand": 54335,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 05:35:00-0500",
+    "demand": 54467,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 05:40:00-0500",
+    "demand": 54530,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 05:45:00-0500",
+    "demand": 54595,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 05:50:00-0500",
+    "demand": 54671,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 05:55:00-0500",
+    "demand": 54789,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 06:00:00-0500",
+    "demand": 54892,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 06:05:00-0500",
+    "demand": 55045,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 06:10:00-0500",
+    "demand": 55135,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 06:15:00-0500",
+    "demand": 55299,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 06:20:00-0500",
+    "demand": 55277,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 06:25:00-0500",
+    "demand": 55081,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 06:30:00-0500",
+    "demand": 54994,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 06:35:00-0500",
+    "demand": 54936,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 06:40:00-0500",
+    "demand": 54961,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 06:45:00-0500",
+    "demand": 55024,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 06:50:00-0500",
+    "demand": 55175,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 06:55:00-0500",
+    "demand": 55141,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 07:00:00-0500",
+    "demand": 55358,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 07:05:00-0500",
+    "demand": 55684,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 07:10:00-0500",
+    "demand": 56061,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 07:15:00-0500",
+    "demand": 56321,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 07:20:00-0500",
+    "demand": 56570,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 07:25:00-0500",
+    "demand": 56734,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 07:30:00-0500",
+    "demand": 56716,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 07:35:00-0500",
+    "demand": 56926,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 07:40:00-0500",
+    "demand": 57633,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 07:45:00-0500",
+    "demand": 57861,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 07:50:00-0500",
+    "demand": 58125,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 07:55:00-0500",
+    "demand": 58507,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 08:00:00-0500",
+    "demand": 59001,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 08:05:00-0500",
+    "demand": 59207,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 08:10:00-0500",
+    "demand": 59842,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 08:15:00-0500",
+    "demand": 60318,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 08:20:00-0500",
+    "demand": 60769,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 08:25:00-0500",
+    "demand": 61197,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 08:30:00-0500",
+    "demand": 61785,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 08:35:00-0500",
+    "demand": 61981,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 08:40:00-0500",
+    "demand": 62206,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 08:45:00-0500",
+    "demand": 62453,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 08:50:00-0500",
+    "demand": 62855,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 08:55:00-0500",
+    "demand": 63148,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 09:00:00-0500",
+    "demand": 63510,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 09:05:00-0500",
+    "demand": 63603,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 09:10:00-0500",
+    "demand": 63755,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 09:15:00-0500",
+    "demand": 63772,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 09:20:00-0500",
+    "demand": 64171,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 09:25:00-0500",
+    "demand": 64352,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 09:30:00-0500",
+    "demand": 64583,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 09:35:00-0500",
+    "demand": 64953,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 09:40:00-0500",
+    "demand": 65432,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 09:45:00-0500",
+    "demand": 65658,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 09:50:00-0500",
+    "demand": 65635,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 09:55:00-0500",
+    "demand": 65839,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 10:00:00-0500",
+    "demand": 65866,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 10:05:00-0500",
+    "demand": 66375,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 10:10:00-0500",
+    "demand": 66379,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 10:15:00-0500",
+    "demand": 66523,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 10:20:00-0500",
+    "demand": 67134,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 10:25:00-0500",
+    "demand": 67266,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 10:30:00-0500",
+    "demand": 67589,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 10:35:00-0500",
+    "demand": 67902,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 10:40:00-0500",
+    "demand": 68163,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 10:45:00-0500",
+    "demand": 68414,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 10:50:00-0500",
+    "demand": 68514,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 10:55:00-0500",
+    "demand": 68710,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 11:00:00-0500",
+    "demand": 69158,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 11:05:00-0500",
+    "demand": 69196,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 11:10:00-0500",
+    "demand": 69590,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 11:15:00-0500",
+    "demand": 69894,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 11:20:00-0500",
+    "demand": 70357,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 11:25:00-0500",
+    "demand": 70723,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 11:30:00-0500",
+    "demand": 71103,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 11:35:00-0500",
+    "demand": 71361,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 11:40:00-0500",
+    "demand": 71613,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 11:45:00-0500",
+    "demand": 71917,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 11:50:00-0500",
+    "demand": 72031,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 11:55:00-0500",
+    "demand": 72130,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 12:00:00-0500",
+    "demand": 72637,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 12:05:00-0500",
+    "demand": 72649,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 12:10:00-0500",
+    "demand": 72948,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 12:15:00-0500",
+    "demand": 73180,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 12:20:00-0500",
+    "demand": 73255,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 12:25:00-0500",
+    "demand": 73398,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 12:30:00-0500",
+    "demand": 73663,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 12:35:00-0500",
+    "demand": 74104,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 12:40:00-0500",
+    "demand": 74534,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 12:45:00-0500",
+    "demand": 74555,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 12:50:00-0500",
+    "demand": 74877,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 12:55:00-0500",
+    "demand": 75344,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 13:00:00-0500",
+    "demand": 75740,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 13:05:00-0500",
+    "demand": 75620,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 13:10:00-0500",
+    "demand": 75798,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 13:15:00-0500",
+    "demand": 76014,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 13:20:00-0500",
+    "demand": 75695,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 13:25:00-0500",
+    "demand": 76236,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 13:30:00-0500",
+    "demand": 76426,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 13:35:00-0500",
+    "demand": 76575,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 13:40:00-0500",
+    "demand": 76651,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 13:45:00-0500",
+    "demand": 76853,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 13:50:00-0500",
+    "demand": 77524,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 13:55:00-0500",
+    "demand": 76621,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 14:00:00-0500",
+    "demand": 77003,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 14:05:00-0500",
+    "demand": 76739,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 14:10:00-0500",
+    "demand": 76553,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 14:15:00-0500",
+    "demand": 76736,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 14:20:00-0500",
+    "demand": 76339,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 14:25:00-0500",
+    "demand": 76430,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 14:30:00-0500",
+    "demand": 76671,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 14:35:00-0500",
+    "demand": 76707,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 14:40:00-0500",
+    "demand": 76818,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 14:45:00-0500",
+    "demand": 76687,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 14:50:00-0500",
+    "demand": 76863,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 14:55:00-0500",
+    "demand": 76732,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 15:00:00-0500",
+    "demand": 77293,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 15:05:00-0500",
+    "demand": 77328,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 15:10:00-0500",
+    "demand": 77344,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 15:15:00-0500",
+    "demand": 77289,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 15:20:00-0500",
+    "demand": 77805,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 15:25:00-0500",
+    "demand": 78014,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 15:30:00-0500",
+    "demand": 77951,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 15:35:00-0500",
+    "demand": 77879,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 15:40:00-0500",
+    "demand": 77662,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 15:45:00-0500",
+    "demand": 77753,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 15:50:00-0500",
+    "demand": 77819,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 15:55:00-0500",
+    "demand": 78233,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 16:00:00-0500",
+    "demand": 78010,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 16:05:00-0500",
+    "demand": 78009,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 16:10:00-0500",
+    "demand": 77882,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 16:15:00-0500",
+    "demand": 77649,
+    "forecast": 0
+  },
+  {
+    "timestamp": "2025-06-19 16:20:00-0500",
+    "demand": 77679,
+    "forecast": 1
+  },
+  {
+    "timestamp": "2025-06-19 16:25:00-0500",
+    "demand": 77709,
+    "forecast": 1
+  },
+  {
+    "timestamp": "2025-06-19 16:30:00-0500",
+    "demand": 77739,
+    "forecast": 1
+  },
+  {
+    "timestamp": "2025-06-19 16:35:00-0500",
+    "demand": 77770,
+    "forecast": 1
+  },
+  {
+    "timestamp": "2025-06-19 16:40:00-0500",
+    "demand": 77800,
+    "forecast": 1
+  },
+  {
+    "timestamp": "2025-06-19 16:45:00-0500",
+    "demand": 77830,
+    "forecast": 1
+  },
+  {
+    "timestamp": "2025-06-19 16:50:00-0500",
+    "demand": 77860,
+    "forecast": 1
+  },
+  {
+    "timestamp": "2025-06-19 16:55:00-0500",
+    "demand": 77890,
+    "forecast": 1
+  },
+  {
+    "timestamp": "2025-06-19 17:00:00-0500",
+    "demand": 77920,
+    "forecast": 1
+  },
+  {
+    "timestamp": "2025-06-19 17:05:00-0500",
+    "demand": 77878,
+    "forecast": 1
+  },
+  {
+    "timestamp": "2025-06-19 17:10:00-0500",
+    "demand": 77835,
+    "forecast": 1
+  },
+  {
+    "timestamp": "2025-06-19 17:15:00-0500",
+    "demand": 77793,
+    "forecast": 1
+  },
+  {
+    "timestamp": "2025-06-19 17:20:00-0500",
+    "demand": 77750,
+    "forecast": 1
+  },
+  {
+    "timestamp": "2025-06-19 17:25:00-0500",
+    "demand": 77708,
+    "forecast": 1
+  },
+  {
+    "timestamp": "2025-06-19 17:30:00-0500",
+    "demand": 77665,
+    "forecast": 1
+  },
+  {
+    "timestamp": "2025-06-19 17:35:00-0500",
+    "demand": 77623,
+    "forecast": 1
+  },
+  {
+    "timestamp": "2025-06-19 17:40:00-0500",
+    "demand": 77581,
+    "forecast": 1
+  },
+  {
+    "timestamp": "2025-06-19 17:45:00-0500",
+    "demand": 77538,
+    "forecast": 1
+  },
+  {
+    "timestamp": "2025-06-19 17:50:00-0500",
+    "demand": 77496,
+    "forecast": 1
+  },
+  {
+    "timestamp": "2025-06-19 17:55:00-0500",
+    "demand": 77453,
+    "forecast": 1
+  },
+  {
+    "timestamp": "2025-06-19 18:00:00-0500",
+    "demand": 77411,
+    "forecast": 1
+  },
+  {
+    "timestamp": "2025-06-19 18:05:00-0500",
+    "demand": 77287,
+    "forecast": 1
+  },
+  {
+    "timestamp": "2025-06-19 18:10:00-0500",
+    "demand": 77163,
+    "forecast": 1
+  },
+  {
+    "timestamp": "2025-06-19 18:15:00-0500",
+    "demand": 77040,
+    "forecast": 1
+  },
+  {
+    "timestamp": "2025-06-19 18:20:00-0500",
+    "demand": 76916,
+    "forecast": 1
+  },
+  {
+    "timestamp": "2025-06-19 18:25:00-0500",
+    "demand": 76792,
+    "forecast": 1
+  },
+  {
+    "timestamp": "2025-06-19 18:30:00-0500",
+    "demand": 76669,
+    "forecast": 1
+  },
+  {
+    "timestamp": "2025-06-19 18:35:00-0500",
+    "demand": 76545,
+    "forecast": 1
+  },
+  {
+    "timestamp": "2025-06-19 18:40:00-0500",
+    "demand": 76421,
+    "forecast": 1
+  },
+  {
+    "timestamp": "2025-06-19 18:45:00-0500",
+    "demand": 76298,
+    "forecast": 1
+  },
+  {
+    "timestamp": "2025-06-19 18:50:00-0500",
+    "demand": 76174,
+    "forecast": 1
+  },
+  {
+    "timestamp": "2025-06-19 18:55:00-0500",
+    "demand": 76050,
+    "forecast": 1
+  },
+  {
+    "timestamp": "2025-06-19 19:00:00-0500",
+    "demand": 75927,
+    "forecast": 1
+  },
+  {
+    "timestamp": "2025-06-19 19:05:00-0500",
+    "demand": 75746,
+    "forecast": 1
+  },
+  {
+    "timestamp": "2025-06-19 19:10:00-0500",
+    "demand": 75565,
+    "forecast": 1
+  },
+  {
+    "timestamp": "2025-06-19 19:15:00-0500",
+    "demand": 75384,
+    "forecast": 1
+  },
+  {
+    "timestamp": "2025-06-19 19:20:00-0500",
+    "demand": 75204,
+    "forecast": 1
+  },
+  {
+    "timestamp": "2025-06-19 19:25:00-0500",
+    "demand": 75023,
+    "forecast": 1
+  },
+  {
+    "timestamp": "2025-06-19 19:30:00-0500",
+    "demand": 74842,
+    "forecast": 1
+  },
+  {
+    "timestamp": "2025-06-19 19:35:00-0500",
+    "demand": 74661,
+    "forecast": 1
+  },
+  {
+    "timestamp": "2025-06-19 19:40:00-0500",
+    "demand": 74480,
+    "forecast": 1
+  },
+  {
+    "timestamp": "2025-06-19 19:45:00-0500",
+    "demand": 74300,
+    "forecast": 1
+  },
+  {
+    "timestamp": "2025-06-19 19:50:00-0500",
+    "demand": 74119,
+    "forecast": 1
+  },
+  {
+    "timestamp": "2025-06-19 19:55:00-0500",
+    "demand": 73938,
+    "forecast": 1
+  },
+  {
+    "timestamp": "2025-06-19 20:00:00-0500",
+    "demand": 73757,
+    "forecast": 1
+  },
+  {
+    "timestamp": "2025-06-19 20:05:00-0500",
+    "demand": 73552,
+    "forecast": 1
+  },
+  {
+    "timestamp": "2025-06-19 20:10:00-0500",
+    "demand": 73346,
+    "forecast": 1
+  },
+  {
+    "timestamp": "2025-06-19 20:15:00-0500",
+    "demand": 73141,
+    "forecast": 1
+  },
+  {
+    "timestamp": "2025-06-19 20:20:00-0500",
+    "demand": 72935,
+    "forecast": 1
+  },
+  {
+    "timestamp": "2025-06-19 20:25:00-0500",
+    "demand": 72730,
+    "forecast": 1
+  },
+  {
+    "timestamp": "2025-06-19 20:30:00-0500",
+    "demand": 72524,
+    "forecast": 1
+  },
+  {
+    "timestamp": "2025-06-19 20:35:00-0500",
+    "demand": 72318,
+    "forecast": 1
+  },
+  {
+    "timestamp": "2025-06-19 20:40:00-0500",
+    "demand": 72113,
+    "forecast": 1
+  },
+  {
+    "timestamp": "2025-06-19 20:45:00-0500",
+    "demand": 71907,
+    "forecast": 1
+  },
+  {
+    "timestamp": "2025-06-19 20:50:00-0500",
+    "demand": 71702,
+    "forecast": 1
+  },
+  {
+    "timestamp": "2025-06-19 20:55:00-0500",
+    "demand": 71496,
+    "forecast": 1
+  },
+  {
+    "timestamp": "2025-06-19 21:00:00-0500",
+    "demand": 71291,
+    "forecast": 1
+  },
+  {
+    "timestamp": "2025-06-19 21:05:00-0500",
+    "demand": 71155,
+    "forecast": 1
+  },
+  {
+    "timestamp": "2025-06-19 21:10:00-0500",
+    "demand": 71020,
+    "forecast": 1
+  },
+  {
+    "timestamp": "2025-06-19 21:15:00-0500",
+    "demand": 70885,
+    "forecast": 1
+  },
+  {
+    "timestamp": "2025-06-19 21:20:00-0500",
+    "demand": 70750,
+    "forecast": 1
+  },
+  {
+    "timestamp": "2025-06-19 21:25:00-0500",
+    "demand": 70615,
+    "forecast": 1
+  },
+  {
+    "timestamp": "2025-06-19 21:30:00-0500",
+    "demand": 70480,
+    "forecast": 1
+  },
+  {
+    "timestamp": "2025-06-19 21:35:00-0500",
+    "demand": 70345,
+    "forecast": 1
+  },
+  {
+    "timestamp": "2025-06-19 21:40:00-0500",
+    "demand": 70210,
+    "forecast": 1
+  },
+  {
+    "timestamp": "2025-06-19 21:45:00-0500",
+    "demand": 70075,
+    "forecast": 1
+  },
+  {
+    "timestamp": "2025-06-19 21:50:00-0500",
+    "demand": 69940,
+    "forecast": 1
+  },
+  {
+    "timestamp": "2025-06-19 21:55:00-0500",
+    "demand": 69804,
+    "forecast": 1
+  },
+  {
+    "timestamp": "2025-06-19 22:00:00-0500",
+    "demand": 69669,
+    "forecast": 1
+  },
+  {
+    "timestamp": "2025-06-19 22:05:00-0500",
+    "demand": 69400,
+    "forecast": 1
+  },
+  {
+    "timestamp": "2025-06-19 22:10:00-0500",
+    "demand": 69131,
+    "forecast": 1
+  },
+  {
+    "timestamp": "2025-06-19 22:15:00-0500",
+    "demand": 68861,
+    "forecast": 1
+  },
+  {
+    "timestamp": "2025-06-19 22:20:00-0500",
+    "demand": 68592,
+    "forecast": 1
+  },
+  {
+    "timestamp": "2025-06-19 22:25:00-0500",
+    "demand": 68323,
+    "forecast": 1
+  },
+  {
+    "timestamp": "2025-06-19 22:30:00-0500",
+    "demand": 68054,
+    "forecast": 1
+  },
+  {
+    "timestamp": "2025-06-19 22:35:00-0500",
+    "demand": 67784,
+    "forecast": 1
+  },
+  {
+    "timestamp": "2025-06-19 22:40:00-0500",
+    "demand": 67515,
+    "forecast": 1
+  },
+  {
+    "timestamp": "2025-06-19 22:45:00-0500",
+    "demand": 67246,
+    "forecast": 1
+  },
+  {
+    "timestamp": "2025-06-19 22:50:00-0500",
+    "demand": 66976,
+    "forecast": 1
+  },
+  {
+    "timestamp": "2025-06-19 22:55:00-0500",
+    "demand": 66707,
+    "forecast": 1
+  },
+  {
+    "timestamp": "2025-06-19 23:00:00-0500",
+    "demand": 66438,
+    "forecast": 1
+  },
+  {
+    "timestamp": "2025-06-19 23:05:00-0500",
+    "demand": 66120,
+    "forecast": 1
+  },
+  {
+    "timestamp": "2025-06-19 23:10:00-0500",
+    "demand": 65802,
+    "forecast": 1
+  },
+  {
+    "timestamp": "2025-06-19 23:15:00-0500",
+    "demand": 65485,
+    "forecast": 1
+  },
+  {
+    "timestamp": "2025-06-19 23:20:00-0500",
+    "demand": 65167,
+    "forecast": 1
+  },
+  {
+    "timestamp": "2025-06-19 23:25:00-0500",
+    "demand": 64849,
+    "forecast": 1
+  },
+  {
+    "timestamp": "2025-06-19 23:30:00-0500",
+    "demand": 64532,
+    "forecast": 1
+  },
+  {
+    "timestamp": "2025-06-19 23:35:00-0500",
+    "demand": 64214,
+    "forecast": 1
+  },
+  {
+    "timestamp": "2025-06-19 23:40:00-0500",
+    "demand": 63896,
+    "forecast": 1
+  },
+  {
+    "timestamp": "2025-06-19 23:45:00-0500",
+    "demand": 63579,
+    "forecast": 1
+  },
+  {
+    "timestamp": "2025-06-19 23:50:00-0500",
+    "demand": 63261,
+    "forecast": 1
+  },
+  {
+    "timestamp": "2025-06-19 23:55:00-0500",
+    "demand": 62943,
+    "forecast": 1
+  },
+  {
+    "timestamp": "2025-06-20 00:00:00-0500",
+    "demand": 62626,
+    "forecast": 1
+  }
+]

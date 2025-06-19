@@ -1,0 +1,104 @@
+Grafana Visualiaztion code
+7 day 
+SELECT
+  timestamp AS "time",
+  system_total
+FROM ercot_seven_day_forecast
+WHERE timestamp >= current_date
+AND timestamp < current_date + interval '7 days'
+ORDER BY timestamp;
+
+daily 
+SELECT
+  timestamp AS "time",
+  demand,
+  CASE
+    WHEN forecast = 0 THEN 'Actual'
+    ELSE 'Forecast'
+  END AS series
+FROM ercot_supply_demand
+WHERE timestamp >= current_date
+ORDER BY timestamp;
+
+7 day Peak load
+  SELECT timestamp, system_total
+  FROM ercot_seven_day_forecast
+  ORDER BY system_total DESC
+  LIMIT 1
+
+7 day peak time
+SELECT
+  max_row.timestamp AS "7-day Peak Time"
+FROM (
+  SELECT timestamp, system_total
+  FROM ercot_seven_day_forecast
+  WHERE timestamp >= current_date
+  AND timestamp < current_date + interval '7 days'
+  ORDER BY system_total DESC
+  LIMIT 1
+) AS max_row;
+
+daily peak
+
+  SELECT demand
+  FROM ercot_supply_demand
+  ORDER BY demand DESC
+  LIMIT 1
+
+Daily Peak Time
+SELECT
+  max_row.timestamp AS "Daily Peak Time"
+FROM (
+  SELECT timestamp, demand
+  FROM ercot_supply_demand
+  WHERE timestamp >= current_date
+  AND timestamp < current_date + interval '1 day'
+  ORDER BY demand DESC
+  LIMIT 1
+) AS max_row;
+
+Monthly Actual Peak
+SELECT
+  MAX(demand) AS "Monthly Peak Demand (MW)"
+FROM ercot_supply_demand
+WHERE forecast = 0
+
+Intra Hour
+SELECT
+  interval_ending AS "time",
+  system_total,
+  model
+FROM ercot_intra_hour_forecast
+ORDER BY interval_ending;
+
+7 day peak annotation
+SELECT
+  max_row.timestamp AS time,
+  'Max Load: ' || max_row.system_total AS text
+FROM (
+  SELECT timestamp, system_total
+  FROM ercot_seven_day_forecast
+  ORDER BY system_total DESC
+  LIMIT 1
+) AS max_row;
+
+Daily peak annotation
+SELECT
+  max_row.timestamp AS time,
+  'Max Demand Today: ' || max_row.demand AS text
+FROM (
+  SELECT timestamp, demand
+  FROM ercot_supply_demand
+  ORDER BY demand DESC
+  LIMIT 1
+) AS max_row;
+
+Horitontal Line
+SELECT
+  generate_series(current_date, current_date + interval '8 day', interval '1 hour') AS "time",
+  (SELECT MAX(demand)
+   FROM ercot_supply_demand
+   WHERE forecast = 0
+   AND timestamp >= date_trunc('month', current_date)
+   AND timestamp < date_trunc('month', current_date) + interval '1 month'
+  ) AS "Monthly Peak Demand (MW)";
